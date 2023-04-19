@@ -1,0 +1,4 @@
+français=french
+eau=water
+si=if
+sinon=else
